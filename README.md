@@ -103,8 +103,11 @@ Role: AS SYSDBA
 ```
 
 Default SID : ORCLCDB
+
 User : sys as sysdba
+
 Password : <your password>
+   
 
 Changing the password
 ---------------------
